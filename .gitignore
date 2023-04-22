@@ -1,0 +1,4 @@
+scratch/
+__pycache__/
+mnist_data.npz
+gan-*.png
