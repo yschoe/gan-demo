@@ -1,4 +1,4 @@
-# clen-csce-choe-gan-demo
+# gan-demo
 
 A simple demo for Generative Adversarial Network, using the MNIST data set
 
