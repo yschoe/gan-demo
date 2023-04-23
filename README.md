@@ -22,5 +22,12 @@ The code was mostly generated using ChatGPT. I separated the code into the gan m
 
 ### Testing
 
-1. Simply run `python gan-test.py`
+1. After training, simply run `python gan-test.py`
    - This will load the saved weight files `generator.h5` and `discriminator.h5`.
+
+### Testing with pre-trained weight files
+
+1. Copy `saved/generator.h5` and `saved/discriminator.h5` to the current directory, and run
+`pytho gan-test.py`
+
+
