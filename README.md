@@ -1,8 +1,10 @@
-# gan-demo
+# clen-csce-choe-gan-demo
 
 A simple demo for Generative Adversarial Network, using the MNIST data set
 
 The code was mostly generated using ChatGPT. I separated the code into the gan module and train and test scripts. 
+
+See [samples](samples).
 
 ### Training
 
@@ -29,5 +31,4 @@ The code was mostly generated using ChatGPT. I separated the code into the gan m
 
 1. Copy `saved/generator.h5` and `saved/discriminator.h5` to the current directory, and run
 `python gan-test.py`
-
 
